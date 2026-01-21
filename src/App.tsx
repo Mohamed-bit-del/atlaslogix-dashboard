@@ -2,7 +2,7 @@
 function App() {
 
   return (
-    <p>SocSic</p>
+    <p>Soc Soc</p>
   )
 }
 
