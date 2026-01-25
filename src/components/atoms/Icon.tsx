@@ -1,5 +1,6 @@
 import { Box, Activity, X, AlertTriangle, FileText, LayoutDashboard } from "lucide-react";
-import type { IconProps } from "../../types";
+import type { IconProps, IconName } from "../../types";
+export type { IconName };
 
 
 export const iconRegistry = {

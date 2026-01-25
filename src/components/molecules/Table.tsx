@@ -1,4 +1,4 @@
-import type { TableCompoundProps } from "../../types/shipment";
+import type { TableCompoundProps } from "../../types";
 
 function Table({ children }: TableCompoundProps) {
     return (
